@@ -1,19 +1,24 @@
-<h1 align="center">👋 Bonjour / Hi, I'm Aicha Gahlas</h1>
+<!-- ====================== BANNIÈRE ANIMÉE ====================== -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,6,20&height=200&section=header&text=Aicha%20Gahlas&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20Software%20Engineering%20%7C%20Data&descAlignY=58&descSize=18" />
 
+<!-- ====================== TEXTE ANIMÉ ====================== -->
 <p align="center">
-  <img src="https://img.shields.io/badge/🎓_Master_2-ARIAS_@_Univ._Orléans-6C5CE7?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🔎_Recherche_stage_IA-2027-00B894?style=for-the-badge" />
+  <a href="https://github.com/GahlasAicha">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6C5CE7&center=true&vCenter=true&width=600&lines=%F0%9F%8E%93+M2+ARIAS+%40+Universit%C3%A9+d'Orl%C3%A9ans;%F0%9F%A4%96+LLM+%26+AI+Agents+Enthusiast;%F0%9F%94%8E+Recherche+stage+IA+%7C+Looking+for+an+AI+internship;%F0%9F%9A%80+From+idea+to+working+solution" />
+  </a>
 </p>
 
 <p align="center">
-  <b>🇫🇷</b> Étudiante en <b>Master 2 Informatique — parcours ARIAS</b> (IA, Applications Réparties & Sécurité).<br>
-  Je conçois et déploie des solutions fondées sur les <b>LLM</b> et les <b>agents IA</b>. À la recherche d'un <b>stage de fin d'études en IA</b> (début 2027).
+  <img src="https://komarev.com/ghpvc/?username=GahlasAicha&style=flat-square&color=6C5CE7&label=Profile+views" />
 </p>
 
-<p align="center">
-  <b>🇬🇧</b> Final-year <b>MSc Computer Science</b> student (AI, Distributed Systems & Security).<br>
-  I build and deploy <b>LLM</b> and <b>AI-agent</b> solutions. Looking for a <b>final-year AI internship</b> (early 2027).
-</p>
+---
+
+### 🇫🇷 À propos &nbsp;·&nbsp; 🇬🇧 About
+
+> **FR** — Étudiante en **Master 2 Informatique — parcours ARIAS** (IA, Applications Réparties & Sécurité) à l'Université d'Orléans. Je conçois et déploie des solutions fondées sur les **LLM** et les **agents IA**. 🔎 À la recherche d'un **stage de fin d'études en IA** (début 2027).
+>
+> **EN** — Final-year **MSc Computer Science** student (AI, Distributed Systems & Security). I build and deploy **LLM** and **AI-agent** solutions. 🔎 Looking for a **final-year AI internship** (early 2027).
 
 ---
 
@@ -46,13 +51,30 @@
 
 ## 🚀 Projets à la une / Featured Projects
 
-| Projet | 🇫🇷 Description | 🇬🇧 Description | Stack |
-|--------|----------------|----------------|-------|
-| 🧩 [**csp-solver**](https://github.com/GahlasAicha/csp-solver) | Solveur de contraintes (backtracking, forward checking, AC-3) | Constraint solver (backtracking, forward checking, AC-3) | `Python` |
-| ⚡ [**parallel-programming-mpi-openmp**](https://github.com/GahlasAicha/parallel-programming-mpi-openmp) | Parallélisation d'algorithmes (Floyd-Warshall, PAM, Needleman-Wunsch) | Parallel algorithms (Floyd-Warshall, PAM, Needleman-Wunsch) | `C++` `MPI` `OpenMP` |
-| 🕸️ [**community-detection-louvain**](https://github.com/GahlasAicha/community-detection-louvain) | Détection de communautés dans les graphes (Louvain) | Graph community detection (Louvain) | `Python` |
-| 🦊 [**wildlife-observation-app**](https://github.com/GahlasAicha/wildlife-observation-app) | Appli full-stack de suivi d'observations de faune | Full-stack wildlife observation tracker | `Symfony` `Angular` |
-| 🎮 [**Projetjava**](https://github.com/GahlasAicha/Projetjava) | Jeu orienté objet (design patterns, MVC) | OOP game (design patterns, MVC) | `Java` |
+| Projet | Description | Stack |
+|--------|-------------|-------|
+| 🧩 [**csp-solver**](https://github.com/GahlasAicha/csp-solver) | Solveur de contraintes · Constraint solver (backtracking, forward checking, AC-3) | `Python` |
+| ⚡ [**parallel-programming-mpi-openmp**](https://github.com/GahlasAicha/parallel-programming-mpi-openmp) | Parallélisation d'algorithmes · Parallel algorithms (Floyd-Warshall, PAM, Needleman-Wunsch) | `C++` `MPI` `OpenMP` |
+| 🕸️ [**community-detection-louvain**](https://github.com/GahlasAicha/community-detection-louvain) | Détection de communautés · Graph community detection (Louvain) | `Python` |
+| 🦊 [**wildlife-observation-app**](https://github.com/GahlasAicha/wildlife-observation-app) | Suivi d'observations de faune · Wildlife tracker (full-stack) | `Symfony` `Angular` |
+| 🎮 [**Projetjava**](https://github.com/GahlasAicha/Projetjava) | Jeu orienté objet · OOP game (design patterns, MVC) | `Java` |
+
+---
+
+## 📊 Mes statistiques GitHub / GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=GahlasAicha&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GahlasAicha&layout=compact&theme=radical&hide_border=true&langs_count=8" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GahlasAicha&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=GahlasAicha&theme=radical&no-frame=true&row=1&column=6&margin-w=10" />
+</p>
 
 ---
 
@@ -69,3 +91,5 @@
   <img src="https://img.shields.io/badge/🌍_English-B2-54A0FF?style=flat-square" />
   <img src="https://img.shields.io/badge/📍_Orléans_/_Île--de--France-576574?style=flat-square" />
 </p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,6,20&height=100&section=footer" />
